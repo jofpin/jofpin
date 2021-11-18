@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi! I'm Jose Pino, a prominent hacker and security researcher recognized by large and important Internet companies. I am currently working on creating cyber intelligence tools to combat crime and terrorism. I keep interested in the world of cryptocurrencies and NFTs.
+
 <!--
 **jofpin/jofpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
