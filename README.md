@@ -1,6 +1,8 @@
-### Hi there 👋
+### Summary
 
-Hi! I'm Jose Pino, a prominent hacker and security researcher recognized by large and important Internet companies. I am currently working on creating cyber intelligence tools to combat crime and terrorism. I keep interested in the world of cryptocurrencies and NFTs.
+Hello! I'm Jose Pino, a renowned hacker and security researcher acknowledged by more than 30 major internet companies, including Microsoft, Mozilla, Yahoo, PayPal, eBay, Twitter, Dropbox, and Harvard University. My primary focus is developing cutting-edge cyber intelligence tools to combat crime and discovery of vulnerabilities. I've contributed notable projects to the open-source community, like [**Trape**](https://github.com/jofpin/trape), and have shared my expertise at conferences such as Black Hat Arsenal. My relentless commitment is to make the Internet a safer place.
+
+_I will work tirelessly every day to make the Internet a safer place._
 
 <!--
 **jofpin/jofpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
